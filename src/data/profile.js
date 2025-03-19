@@ -18,7 +18,7 @@ const profile = {
         link: "https://github.com/mohitmalayanandy/e-examination-portal"
       }
     ],
-    skills: ["Python", "Java", "React", "Django", "MongoDB", "Tailwind CSS"],
+    skills: ["HTML", "CSS", "JavaScript", "React.JS", "Express.JS", "Node.JS", "Python", "Flask", "MongoDB", "Tailwind CSS", "Bootstrap", "SQL", "Git", "GitHub"],
   };
   
   export default profile;
