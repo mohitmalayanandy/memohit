@@ -1,14 +1,13 @@
-import { useState } from 'react'
-import './App.css'
+import Header from './components/Header';
+import Router from './router';
 
-function App() {
-
-
+const App = () => {
   return (
-    <>
-      <h1 className='text-2xl font-extrabold bg-yellow-300 text-green-500'>App</h1>
-    </>
-  )
+    <div>
+      <Header />
+      <Router />
+    </div>
+  );
 }
 
-export default App
+export default App;
