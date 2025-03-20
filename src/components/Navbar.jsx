@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const Header = () => {
+const Navbar = () => {
   return (
     <div className="flex justify-between items-center p-5 bg-white shadow-md">
       <h1 className="text-2xl font-bold">Mohit Malaya Nandy</h1>
@@ -13,4 +13,4 @@ const Header = () => {
     </div>
   );
 }
-export default Header;
+export default Navbar;
