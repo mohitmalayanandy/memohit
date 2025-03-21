@@ -4,7 +4,6 @@ import Router from './router';
 const App = () => {
   return (
     <div>
-      <Navbar />
       <Router />
     </div>
   );
